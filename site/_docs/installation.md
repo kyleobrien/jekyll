@@ -19,7 +19,7 @@ requirements you’ll need to make sure your system has before you start.
 - [RubyGems](https://rubygems.org/pages/download)
 - Linux, Unix, or Mac OS X
 - [NodeJS](https://nodejs.org/), or another JavaScript runtime (Jekyll 2 and
-earlier, for CoffeeScript support).
+earlier, for CoffeeScript support)
 - [Python 2.7](https://www.python.org/downloads/) (for Jekyll 2 and earlier)
 
 <div class="note info">
